@@ -9,4 +9,5 @@ The curret F1 confusion matrix - that I have achieved - is:
 
 <img src="/Images/Image2.png">
 
+You can find the dataset address in Main notebook and follow the modeling steps.
 Interested or have questions? Please don't hesitate to comment here or contact me. Also, feel free to fork and contribute to the project...
