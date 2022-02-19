@@ -8,3 +8,5 @@ The main characteristics of the dataset is the subjective nature of the problem 
 The curret F1 confusion matrix - that I have achieved - is:
 
 <img src="/Images/Image2.png">
+
+Interested or have questions? Please don't hesitate to comment here or contact me. Also, feel free to fork and contribute to the project...
